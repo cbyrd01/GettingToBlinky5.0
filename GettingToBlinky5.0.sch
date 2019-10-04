@@ -195,4 +195,10 @@ $EndComp
 Connection ~ 5750 4950
 Wire Wire Line
 	5750 4950 6400 4950
+Text Label 6000 2500 0    50   ~ 0
+VDD
+Text Label 5600 3500 0    50   ~ 0
+DIS
+Text Label 5300 4100 0    50   ~ 0
+THR
 $EndSCHEMATC
